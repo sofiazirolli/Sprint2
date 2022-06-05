@@ -3,8 +3,12 @@
 	padding: auto;
 }
 
+.card-header h2{
+	margin-top: 1rem;
+}
+
 .navbar-brand{
-	font-size: 2.3vw;
+	font-size: 3vw;
 }
 
 body {
